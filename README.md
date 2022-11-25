@@ -46,18 +46,18 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-dataframe
+## dataframe
 ![d1](https://user-images.githubusercontent.com/94165336/203972586-29bd2dd4-452e-45b6-a115-e0f735bf529f.png)
 
-null values
+## null values
 ![d2](https://user-images.githubusercontent.com/94165336/203972604-050196c5-632a-42d5-92b5-6c209736b282.png)
 ![d3](https://user-images.githubusercontent.com/94165336/203972622-44037f55-d34e-4b6a-894b-910fb13734a7.png)
 
-Label encoder
+## Label encoder
 ![d4](https://user-images.githubusercontent.com/94165336/203972642-e0470b31-5d4e-4f8d-bc9f-a27ff427af3a.png)
 ![d5](https://user-images.githubusercontent.com/94165336/203972661-a0949793-925b-4513-af1c-908a7fda1a56.png)
 
-Accuracy
+## Accuracy
 ![d6](https://user-images.githubusercontent.com/94165336/203972683-97847a37-111d-485f-a65f-ee87c6bbd163.png)
 
 ## Result:
